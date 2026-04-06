@@ -87,7 +87,8 @@ It analyzes Airbnb listing data to help investors identify <b>profitable locatio
 
 <h2>📸 Dashboard Preview</h2>
 <p align="center">
-  <img src="(Add your dashboard screenshot here)" width="80%">
+  <img src="https://github.com/mahmudulhasantechnology-cmyk/airbnb-rental-property-investor-dashboard/blob/mahmudulhasantechnology-cmyk-patch-1/Before.png" width="80%">
+  <img src="https://github.com/mahmudulhasantechnology-cmyk/airbnb-rental-property-investor-dashboard/blob/mahmudulhasantechnology-cmyk-patch-1/After.png" width="80%">
 </p>
 
 <hr>
